@@ -5,8 +5,7 @@
 Mail merge is a process of doing this. Instead of writing each mail separately, we have a template for body of the mail and a list of names that we merge together to form all the mails.
 
 
-@2. Create U.S. State gmae using Python
-
+@2. Create U.S. State gmae using Python   
 It is basically guess state name if name is correct then this name put on U.S. Map on an correct state position place.
  
  
